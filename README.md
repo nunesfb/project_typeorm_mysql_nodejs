@@ -13,9 +13,9 @@
 
 - [Felipe Becker Nunes](https://github.com/nunesfb)
 
-## 💻 Playlist
+## 💻 Vídeo
 
-- [Curso de NodeJS com MySQL - Backend](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPcZ2vJFbND25QNFcXMnnwU&disable_polymer=true)
+- [Construíndo um projeto do zero com TypeORM, TypeScript, NodeJS, Express e MySQL](https://youtu.be/c74zNWoCJiA)
 
 ## ✋🏻 Pré-requisitos
 
